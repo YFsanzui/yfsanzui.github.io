@@ -1,12 +1,39 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on YFsanzui Website</title><link>https://yfsanzui.github.io/page/</link><description>Recent content in Pages on YFsanzui Website</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>YFsanzui</copyright><lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://yfsanzui.github.io/about/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/about/</guid><description>&lt;ul>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on YFsanzui Website</title><link>https://yfsanzui.github.io/page/</link><description>Recent content in Pages on YFsanzui Website</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>YFsanzui</copyright><lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://yfsanzui.github.io/about/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/about/</guid><description>&lt;p>こんにちは。YFsanzuiです。&lt;/p>
+&lt;h2 id="基本情報">基本情報&lt;/h2>
+&lt;p>&lt;img src="https://yfsanzui.github.io/about/wakayama_castle.png"
+width="2000"
+height="1125"
+srcset="https://yfsanzui.github.io/about/wakayama_castle_huceb0bf9d64effd8db4bf6a935d3e62cd_3455635_480x0_resize_box_3.png 480w, https://yfsanzui.github.io/about/wakayama_castle_huceb0bf9d64effd8db4bf6a935d3e62cd_3455635_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="Wakayama-Castle"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;ul>
 &lt;li>なまえ : YFsanzui&lt;/li>
 &lt;li>生まれ : 和歌山県和歌山市&lt;/li>
 &lt;li>誕生日 : 2000年4月2日&lt;/li>
 &lt;li>所属 : 名古屋大学（理学部）&lt;/li>
 &lt;/ul>
-&lt;p>こんにちは。YFsanzuiです。&lt;/p>
-&lt;p>これはテストページです。&lt;/p>
-&lt;p>順次更新していきます。&lt;/p></description></item><item><title>Archives</title><link>https://yfsanzui.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/archives/</guid><description/></item><item><title>Links</title><link>https://yfsanzui.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;h2 id="専攻">専攻&lt;/h2>
+&lt;p>&lt;img src="https://yfsanzui.github.io/about/what_problem.png"
+width="516"
+height="503"
+srcset="https://yfsanzui.github.io/about/what_problem_hu9f325448c3646c915b2858bcfe77f0cc_83512_480x0_resize_box_3.png 480w, https://yfsanzui.github.io/about/what_problem_hu9f325448c3646c915b2858bcfe77f0cc_83512_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="what_is_problem"
+class="gallery-image"
+data-flex-grow="102"
+data-flex-basis="246px"
+>&lt;/p>
+&lt;ul>
+&lt;li>物理学科で &lt;strong>生物物理学（理論）&lt;/strong> をやらせてもらっています。&lt;/li>
+&lt;li>&lt;strong>タンパク質の様々な機能の変化が、その局所的な熱伝導ネットワークで説明できるのでは？&lt;/strong> という大きな仮説のもと、
+タンパク質の熱伝導物性がどう決まっているのか、その局所的な違いにどういう意味があるのか、などを考えています。&lt;/li>
+&lt;li>自分が特に興味があるのは、タンパク質と &lt;strong>周囲の環境&lt;/strong> の関わり合いを、物性物理の力をお借りして評価する仕事で、
+その &lt;strong>生体分子版の計算理論を構築&lt;/strong> する試みをやっています。楽しいです。&lt;/li>
+&lt;/ul></description></item><item><title>Archives</title><link>https://yfsanzui.github.io/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/archives/</guid><description/></item><item><title>Links</title><link>https://yfsanzui.github.io/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
 &lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
 &lt;div class="highlight">&lt;div class="chroma">
 &lt;table class="lntable">&lt;tr>&lt;td class="lntd">
