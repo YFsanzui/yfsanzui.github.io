@@ -1,70 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>サイト運用 on YFsanzui webpage</title><link>https://yfsanzui.github.io/categories/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E7%94%A8/</link><description>Recent content in サイト運用 on YFsanzui webpage</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/categories/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E7%94%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>Japanese Test</title><link>https://yfsanzui.github.io/post/test-japanese/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/test-japanese/</guid><description>&lt;img src="https://yfsanzui.github.io/post/test-japanese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Japanese Test" />&lt;p>もともとテンプレートでは中国語が書いてあったのですが、日本語でもいけるのでしょうか？&lt;/p>
-&lt;p>少し実際の小説の一節をお借りして試してみます。&lt;/p>
-&lt;h2 id="散文出力">散文出力&lt;/h2>
-&lt;p>人間は誰でも猛獣使であり、その猛獣に当るのが、各人の性情だという。己の場合、この尊大な羞恥心が猛獣だった。虎だったのだ。これが己を損い、妻子を苦しめ、友人を傷つけ、果ては、己の外形をかくの如く、内心にふさわしいものに変えて了ったのだ。今思えば、全く、己は、己の有っていた僅かばかりの才能を空費して了った訳だ。人生は何事をも為さぬには余りに長いが、何事かを為すには余りに短いなどと口先ばかりの警句を弄しながら、事実は、才能の不足を暴露するかも知れないとの卑怯な危惧と、刻苦を厭う怠惰とが己の凡てだったのだ。&lt;/p>
-&lt;h2 id="引用">引用&lt;/h2>
-&lt;blockquote>
-&lt;p>&lt;em>&lt;a class="link" href="https://www.aozora.gr.jp/cards/000119/files/624_14544.html" target="_blank" rel="noopener"
->山月記, 中島敦&lt;/a>&lt;/em>
-リンクは青空文庫様のところへ飛びます。&lt;/p>
-&lt;/blockquote>
-&lt;h2 id="図">図&lt;/h2>
-&lt;p>&lt;img src="https://yfsanzui.github.io/post/test-japanese/florian-klauer-nptLmg6jqDo-unsplash.jpg"
-width="667"
-height="1000"
-srcset="https://yfsanzui.github.io/post/test-japanese/florian-klauer-nptLmg6jqDo-unsplash_hu595aaf3b3dbbb41af5aed8d3958cc9f9_13854_480x0_resize_q75_box.jpg 480w, https://yfsanzui.github.io/post/test-japanese/florian-klauer-nptLmg6jqDo-unsplash_hu595aaf3b3dbbb41af5aed8d3958cc9f9_13854_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Photo by Florian Klauer on Unsplash"
-class="gallery-image"
-data-flex-grow="66"
-data-flex-basis="160px"
-> &lt;img src="https://yfsanzui.github.io/post/test-japanese/luca-bravo-alS7ewQ41M8-unsplash.jpg"
-width="1000"
-height="667"
-srcset="https://yfsanzui.github.io/post/test-japanese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_480x0_resize_q75_box.jpg 480w, https://yfsanzui.github.io/post/test-japanese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Photo by Luca Bravo on Unsplash"
-class="gallery-image"
-data-flex-grow="149"
-data-flex-basis="359px"
->&lt;/p>
-&lt;p>&lt;img src="https://yfsanzui.github.io/post/test-japanese/helena-hertz-wWZzXlDpMog-unsplash.jpg"
-width="1000"
-height="750"
-srcset="https://yfsanzui.github.io/post/test-japanese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_480x0_resize_q75_box.jpg 480w, https://yfsanzui.github.io/post/test-japanese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Photo by Helena Hertz on Unsplash"
-class="gallery-image"
-data-flex-grow="133"
-data-flex-basis="320px"
-> &lt;img src="https://yfsanzui.github.io/post/test-japanese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
-width="667"
-height="1000"
-srcset="https://yfsanzui.github.io/post/test-japanese/hudai-gayiran-3Od_VKcDEAA-unsplash_hub241c2a9c7a2caf7e16a2a5bbc7141ff_18711_480x0_resize_q75_box.jpg 480w, https://yfsanzui.github.io/post/test-japanese/hudai-gayiran-3Od_VKcDEAA-unsplash_hub241c2a9c7a2caf7e16a2a5bbc7141ff_18711_1024x0_resize_q75_box.jpg 1024w"
-loading="lazy"
-alt="Photo by Hudai Gayiran on Unsplash"
-class="gallery-image"
-data-flex-grow="66"
-data-flex-basis="160px"
->&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Photo by Florian Klauer on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span>) ![&lt;span style="color:#f92672">Photo by Luca Bravo on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span>)
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Photo by Helena Hertz on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span>) ![&lt;span style="color:#f92672">Photo by Hudai Gayiran on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>出力いけてそうですね！&lt;/p>
-&lt;p>山月記は高校生の現代文の授業（今は言語文化とか文学国語などと言うのでしょうか）でやりましたが、&lt;/p>
-&lt;p>微妙に怖く感じて、自らの内にある「猛獣」に取って代わられるような人間にはなりたくないなどと恐れたものです。&lt;/p></description></item><item><title>数式テスト</title><link>https://yfsanzui.github.io/post/math-typesetting/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/math-typesetting/</guid><description>&lt;img src="https://yfsanzui.github.io/post/math-typesetting/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;p>このサイト（Hugo）では &lt;strong>KaTex&lt;/strong> と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong>LaTex&lt;/strong> とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>サイト運用 on YFsanzui Website</title><link>https://yfsanzui.github.io/categories/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E7%94%A8/</link><description>Recent content in サイト運用 on YFsanzui Website</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>YFsanzui</copyright><lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/categories/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E7%94%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>数式テスト</title><link>https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/</guid><description>&lt;img src="https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;h3 id="katexについて">KaTexについて&lt;/h3>
+&lt;p>このサイト（Hugo）では &lt;strong>KaTex&lt;/strong> と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong>LaTex&lt;/strong> とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p>
 &lt;p>&lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
 >KaTeX&lt;/a>のページ&lt;/p>
 &lt;ul>
-&lt;li>もしこのウェブサイト全体で数式を有効にしたい場合は、プロジェクトのconfigurationにおける &lt;code>math&lt;/code> パラメータを &lt;code>true&lt;/code> にする必要があります。書く場所はそのうち探します。&lt;/li>
-&lt;li>コンテンツごとに数式を有効にしたい場合は &lt;code>math: true&lt;/code> を各コンテンツの頭に書くことになります。こっちの方が良いかな。&lt;/li>
+&lt;li>もしこのウェブサイト全体で数式を有効にしたい場合は、プロジェクトの&lt;code>config.yaml&lt;/code> とか &lt;code>hugo.yaml&lt;/code> における &lt;code>math&lt;/code> パラメータを &lt;code>true&lt;/code> にする必要があります。&lt;/li>
+&lt;li>コンテンツごとに数式を有効にしたい場合は &lt;code>math: true&lt;/code> を各コンテンツの頭に書くことになります。&lt;/li>
 &lt;/ul>
 &lt;p>&lt;strong>Note:&lt;/strong> &lt;a class="link" href="https://katex.org/docs/supported.html" target="_blank" rel="noopener"
 >Supported TeX Functions&lt;/a>にKatexの文法が一通り載っています。&lt;/p>
-&lt;p>{{ if or .Params.math .Site.Params.math }}
-{{ partial &amp;ldquo;math.html&amp;rdquo; . }}
-{{ end }}&lt;/p>
-&lt;p>さて、さきのNoteとこの文章の間に、実はKaTexのレンダリングを有効にするpartialを挿入しているのですが、これがうまくいけば下の方で数式が出てくるはず！です。&lt;/p>
+&lt;p>さて、KaTexのレンダリングはうまくいくのでしょうか？&lt;/p>
 &lt;h3 id="例">例&lt;/h3>
 &lt;p>Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p>
 &lt;p>Block math:
@@ -73,7 +17,70 @@ $$
 $$&lt;/p>
 &lt;p>$$
 \begin{aligned}
-ax^2 + bx + c &amp;amp;= 0\
+ax^2 + bx + c &amp;amp;= 0 \quad(a \neq 0)\\
 \therefore x &amp;amp;= \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
 \end{aligned}
-$$&lt;/p></description></item></channel></rss>
+$$&lt;/p></description></item><item><title>日本語出力テスト</title><link>https://yfsanzui.github.io/p/test-japanese/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/test-japanese/</guid><description>&lt;img src="https://yfsanzui.github.io/p/test-japanese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post 日本語出力テスト" />&lt;p>もともとテンプレートでは中国語が書いてあったのですが、日本語でもいけるのでしょうか？&lt;/p>
+&lt;p>少し実際の小説の一節をお借りして試してみます。&lt;/p>
+&lt;h2 id="散文出力">散文出力&lt;/h2>
+&lt;p>人間は誰でも猛獣使であり、その猛獣に当るのが、各人の性情だという。己の場合、この尊大な羞恥心が猛獣だった。虎だったのだ。これが己を損い、妻子を苦しめ、友人を傷つけ、果ては、己の外形をかくの如く、内心にふさわしいものに変えて了ったのだ。今思えば、全く、己は、己の有っていた僅かばかりの才能を空費して了った訳だ。人生は何事をも為さぬには余りに長いが、何事かを為すには余りに短いなどと口先ばかりの警句を弄しながら、事実は、才能の不足を暴露するかも知れないとの卑怯な危惧と、刻苦を厭う怠惰とが己の凡てだったのだ。&lt;/p>
+&lt;h2 id="引用">引用&lt;/h2>
+&lt;blockquote>
+&lt;p>&lt;em>&lt;a class="link" href="https://www.aozora.gr.jp/cards/000119/files/624_14544.html" target="_blank" rel="noopener"
+>山月記, 中島敦&lt;/a>&lt;/em>&lt;/p>
+&lt;p>リンクは青空文庫様のところへ飛びます。&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="図">図&lt;/h2>
+&lt;p>&lt;img src="https://yfsanzui.github.io/p/test-japanese/florian-klauer-nptLmg6jqDo-unsplash.jpg"
+width="667"
+height="1000"
+srcset="https://yfsanzui.github.io/p/test-japanese/florian-klauer-nptLmg6jqDo-unsplash_hu595aaf3b3dbbb41af5aed8d3958cc9f9_13854_480x0_resize_q75_box.jpg 480w, https://yfsanzui.github.io/p/test-japanese/florian-klauer-nptLmg6jqDo-unsplash_hu595aaf3b3dbbb41af5aed8d3958cc9f9_13854_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Photo by Florian Klauer on Unsplash"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
+> &lt;img src="https://yfsanzui.github.io/p/test-japanese/luca-bravo-alS7ewQ41M8-unsplash.jpg"
+width="1000"
+height="667"
+srcset="https://yfsanzui.github.io/p/test-japanese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_480x0_resize_q75_box.jpg 480w, https://yfsanzui.github.io/p/test-japanese/luca-bravo-alS7ewQ41M8-unsplash_hu0a3f1163de68d0b9471979ebf0ecf11e_32400_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Photo by Luca Bravo on Unsplash"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+>&lt;/p>
+&lt;p>&lt;img src="https://yfsanzui.github.io/p/test-japanese/helena-hertz-wWZzXlDpMog-unsplash.jpg"
+width="1000"
+height="750"
+srcset="https://yfsanzui.github.io/p/test-japanese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_480x0_resize_q75_box.jpg 480w, https://yfsanzui.github.io/p/test-japanese/helena-hertz-wWZzXlDpMog-unsplash_hu45a5e3ad5e058da6a00650ed8fd40bea_15530_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Photo by Helena Hertz on Unsplash"
+class="gallery-image"
+data-flex-grow="133"
+data-flex-basis="320px"
+> &lt;img src="https://yfsanzui.github.io/p/test-japanese/hudai-gayiran-3Od_VKcDEAA-unsplash.jpg"
+width="667"
+height="1000"
+srcset="https://yfsanzui.github.io/p/test-japanese/hudai-gayiran-3Od_VKcDEAA-unsplash_hub241c2a9c7a2caf7e16a2a5bbc7141ff_18711_480x0_resize_q75_box.jpg 480w, https://yfsanzui.github.io/p/test-japanese/hudai-gayiran-3Od_VKcDEAA-unsplash_hub241c2a9c7a2caf7e16a2a5bbc7141ff_18711_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Photo by Hudai Gayiran on Unsplash"
+class="gallery-image"
+data-flex-grow="66"
+data-flex-basis="160px"
+>&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">![&lt;span class="nt">Photo by Florian Klauer on Unsplash&lt;/span>](&lt;span class="na">florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span>) ![&lt;span class="nt">Photo by Luca Bravo on Unsplash&lt;/span>](&lt;span class="na">luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span>)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">![&lt;span class="nt">Photo by Helena Hertz on Unsplash&lt;/span>](&lt;span class="na">helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span>) ![&lt;span class="nt">Photo by Hudai Gayiran on Unsplash&lt;/span>](&lt;span class="na">hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>出力いけてそうですね！&lt;/p>
+&lt;p>山月記は高校生の現代文の授業（今は言語文化とか文学国語などと言うのでしょうか）でやりましたが、&lt;/p>
+&lt;p>微妙に怖く感じて、自らの内にある「猛獣」に取って代わられるような人間にはなりたくない、などと恐れたものです。&lt;/p></description></item></channel></rss>

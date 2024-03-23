@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tex on YFsanzui Website</title>
+        <link>http://localhost:1313/categories/tex/</link>
+        <description>Recent content in Tex on YFsanzui Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <copyright>YFsanzui</copyright>
+        <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/tex/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>数式テスト</title>
+        <link>http://localhost:1313/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/</link>
+        <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/</guid>
+        <description>&lt;img src="http://localhost:1313/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" /&gt;&lt;h3 id=&#34;katexについて&#34;&gt;KaTexについて&lt;/h3&gt;
+&lt;p&gt;このサイト（Hugo）では &lt;strong&gt;KaTex&lt;/strong&gt; と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong&gt;LaTex&lt;/strong&gt; とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://katex.org/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;KaTeX&lt;/a&gt;のページ&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;もしこのウェブサイト全体で数式を有効にしたい場合は、プロジェクトの&lt;code&gt;config.yaml&lt;/code&gt; とか &lt;code&gt;hugo.yaml&lt;/code&gt; における &lt;code&gt;math&lt;/code&gt; パラメータを &lt;code&gt;true&lt;/code&gt; にする必要があります。&lt;/li&gt;
+&lt;li&gt;コンテンツごとに数式を有効にしたい場合は &lt;code&gt;math: true&lt;/code&gt; を各コンテンツの頭に書くことになります。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt;  &lt;a class=&#34;link&#34; href=&#34;https://katex.org/docs/supported.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Supported TeX Functions&lt;/a&gt;にKatexの文法が一通り載っています。&lt;/p&gt;
+&lt;p&gt;さて、KaTexのレンダリングはうまくいくのでしょうか？&lt;/p&gt;
+&lt;h3 id=&#34;例&#34;&gt;例&lt;/h3&gt;
+&lt;p&gt;Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p&gt;
+&lt;p&gt;Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p&gt;
+&lt;p&gt;$$
+\begin{aligned}
+ax^2 + bx + c &amp;amp;= 0  \quad(a \neq 0)\\
+\therefore x &amp;amp;= \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
+\end{aligned}
+$$&lt;/p&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

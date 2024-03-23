@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tex on YFsanzui Website</title><link>https://yfsanzui.github.io/tags/tex/</link><description>Recent content in Tex on YFsanzui Website</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>YFsanzui</copyright><lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/tags/tex/index.xml" rel="self" type="application/rss+xml"/><item><title>数式テスト</title><link>https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/</guid><description>&lt;img src="https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;h3 id="katexについて">KaTexについて&lt;/h3>
+&lt;p>このサイト（Hugo）では &lt;strong>KaTex&lt;/strong> と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong>LaTex&lt;/strong> とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p>
+&lt;p>&lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
+>KaTeX&lt;/a>のページ&lt;/p>
+&lt;ul>
+&lt;li>もしこのウェブサイト全体で数式を有効にしたい場合は、プロジェクトの&lt;code>config.yaml&lt;/code> とか &lt;code>hugo.yaml&lt;/code> における &lt;code>math&lt;/code> パラメータを &lt;code>true&lt;/code> にする必要があります。&lt;/li>
+&lt;li>コンテンツごとに数式を有効にしたい場合は &lt;code>math: true&lt;/code> を各コンテンツの頭に書くことになります。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Note:&lt;/strong> &lt;a class="link" href="https://katex.org/docs/supported.html" target="_blank" rel="noopener"
+>Supported TeX Functions&lt;/a>にKatexの文法が一通り載っています。&lt;/p>
+&lt;p>さて、KaTexのレンダリングはうまくいくのでしょうか？&lt;/p>
+&lt;h3 id="例">例&lt;/h3>
+&lt;p>Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p>
+&lt;p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p>
+&lt;p>$$
+\begin{aligned}
+ax^2 + bx + c &amp;amp;= 0 \quad(a \neq 0)\\
+\therefore x &amp;amp;= \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
+\end{aligned}
+$$&lt;/p></description></item></channel></rss>
