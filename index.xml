@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>YFsanzui Website</title><link>https://yfsanzui.github.io/</link><description>Recent content on YFsanzui Website</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>YFsanzui</copyright><lastBuildDate>Sun, 24 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://yfsanzui.github.io/about/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/about/</guid><description>&lt;p>こんにちは。YFsanzuiです。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>YFsanzui Website</title><link>https://yfsanzui.github.io/</link><description>Recent content on YFsanzui Website</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>YFsanzui</copyright><lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://yfsanzui.github.io/about/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/about/</guid><description>&lt;p>こんにちは。YFsanzuiです。&lt;/p>
 &lt;h2 id="基本情報">基本情報&lt;/h2>
 &lt;p>&lt;img src="https://yfsanzui.github.io/about/wakayama_castle.png"
 width="2000"
@@ -12,9 +12,9 @@ data-flex-basis="426px"
 >&lt;/p>
 &lt;ul>
 &lt;li>なまえ : YFsanzui&lt;/li>
-&lt;li>生まれ : 和歌山県和歌山市&lt;/li>
+&lt;li>生まれ : 和歌山&lt;/li>
 &lt;li>誕生日 : 2000年4月2日&lt;/li>
-&lt;li>所属 : 名古屋大学（理学部）&lt;/li>
+&lt;li>所属 : 中部地方のとある大学&lt;/li>
 &lt;/ul>
 &lt;h2 id="専攻">専攻&lt;/h2>
 &lt;p>&lt;img src="https://yfsanzui.github.io/about/what_problem.png"
@@ -28,12 +28,50 @@ data-flex-grow="102"
 data-flex-basis="246px"
 >&lt;/p>
 &lt;ul>
-&lt;li>物理学科で &lt;strong>生物物理学（理論）&lt;/strong> をやらせてもらっています。&lt;/li>
+&lt;li>&lt;strong>生物物理学（理論）&lt;/strong> をやらせてもらっています。&lt;/li>
 &lt;li>&lt;strong>タンパク質の様々な機能の変化が、その局所的な熱伝導ネットワークで説明できるのでは？&lt;/strong> という大きな仮説のもと、
 タンパク質の熱伝導物性がどう決まっているのか、その局所的な違いにどういう意味があるのか、などを考えています。&lt;/li>
 &lt;li>自分が特に興味があるのは、タンパク質と &lt;strong>周囲の環境&lt;/strong> の関わり合いを、物性物理の力をお借りして評価する仕事で、
 その &lt;strong>生体分子版の計算理論を構築&lt;/strong> する試みをやっています。楽しいです。&lt;/li>
-&lt;/ul></description></item><item><title>数式テスト</title><link>https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/</guid><description>&lt;img src="https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;h3 id="katexについて">KaTexについて&lt;/h3>
+&lt;/ul></description></item><item><title>挨拶</title><link>https://yfsanzui.github.io/p/%E6%8C%A8%E6%8B%B6/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/%E6%8C%A8%E6%8B%B6/</guid><description>&lt;img src="https://yfsanzui.github.io/p/%E6%8C%A8%E6%8B%B6/apple.jpg" alt="Featured image of post 挨拶" />&lt;h1 id="はじめまして">はじめまして&lt;/h1>
+&lt;p>はじめまして、YFsanzuiと申します。&lt;/p>
+&lt;p>春から修士１年になる、卒業間近の大学４年です。&lt;/p>
+&lt;p>大学では普段、生物物理学というものを専攻しており、毎日研究に浸かっています。&lt;/p>
+&lt;p>&lt;a class="link" href="https://yfsanzui.github.io/about/" target="_blank" rel="noopener"
+>about&lt;/a>にも少し詳しめ（詳しくない）に書いてありますので、
+もしご興味あればこちらもお訪ね下さい。&lt;/p>
+&lt;p>ゆる～くやっていきますので、お時間のある方はどうぞよろしくお願いします！&lt;/p>
+&lt;h1 id="きっかけ">きっかけ&lt;/h1>
+&lt;p>自分の所属するラボのホームページが大分古くなり、そろそろ更新しないといけないと、素人ながら
+立ち上がったのがきっかけです。「そもそもhtmlって何？」みたいなところにいるので、まず足がかりに
+こちらを立てて練習しようと思った次第です。&lt;/p>
+&lt;h1 id="どういうサイトにしたいか">どういうサイトにしたいか&lt;/h1>
+&lt;p>せっかく自分のウェブサイトができたので、この際便利に使いたいと思います。
+ざっくりとこのウェブサイトの目的として&lt;/p>
+&lt;ul>
+&lt;li>調べた技術、学術を分かりやすくまとめた日記、備忘録&lt;/li>
+&lt;li>ウェブサイトや関連技術の練習の場&lt;/li>
+&lt;li>趣味を見つける、自分の鏡&lt;/li>
+&lt;/ul>
+&lt;p>に設定しようと思います。&lt;/p>
+&lt;p>１つ目はそのままの意味で、研究に関連して調べた知識を、主に自分用に分かりやすくまとめ、
+後でいつでも引き出せるようにしておこうというものです。その時「 &lt;strong>どういうことに悩んで、どういう発想で乗り越えたか&lt;/strong> 」が分かるように書いていきたいと考えております。
+というのも、それを振り返ることで今後より効率的な思考を目指せる（であろう）し、そもそも私はほぼ素人なので、いたずらに一般化して書くことで、さもそれが本当に正しいかのように伝わってしまうのを避けたいからです。これを見て下さっている方におかれましては、このサイトに書いてあることを実践する際は、今一度よくご自分の責任でお確かめの上トライ頂けたらと思います。&lt;/p>
+&lt;p>２つ目は先に述べた通りで、やはり形があった方が、具体的な技術は身に着けやすいだろう、ということです。現在はコメントなどが入力できないかと思いますが、そういった機能も、勉強が追いつき次第導入していきたいと思います。&lt;/p>
+&lt;p>３つ目は、これが一番重要かもしれないのですが、このサイトでは日々の雑多な体験や感想も書いていきたいなと考えております。&lt;/p>
+&lt;p>自分は子供の頃から目の前の課題に一途な人間だった（つもりな）のですが、その過程で趣味とか、好き嫌いとか「よそ見」をすることがあまり出来ずに来てしまったところがあって、そろそろ身の振り方を考える時期に差し掛かり、どうしたいのかが良く分からないのは不味いのでは？と思ったわけです。&lt;/p>
+&lt;p>去年の４月から始まった研究生活は非常に面白く、これを「趣味」と言っても良いのですが、それだけだと自分の好き嫌いが見えてこないので、この場をお借りして自分の好きなものは何かを考えられたらな、と思います。&lt;/p>
+&lt;p>以上から、技術的なことの他に、多くはないと思いますが趣味っぽいことも書いていきたいと思います（そのための「ネタ作り」も頑張ります笑）。見て下さっている方におかれましては、少しずつ世の中を知っていく過程を気長に待っていただけたらと思います。&lt;/p>
+&lt;p>&lt;img src="https://yfsanzui.github.io/p/%E6%8C%A8%E6%8B%B6/tampopo.jpg"
+width="2538"
+height="1739"
+srcset="https://yfsanzui.github.io/p/%E6%8C%A8%E6%8B%B6/tampopo_huf65fd87789fd224bc3291100c3bc709b_2060280_480x0_resize_q75_box.jpg 480w, https://yfsanzui.github.io/p/%E6%8C%A8%E6%8B%B6/tampopo_huf65fd87789fd224bc3291100c3bc709b_2060280_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="dandelion"
+class="gallery-image"
+data-flex-grow="145"
+data-flex-basis="350px"
+>&lt;/p></description></item><item><title>数式テスト</title><link>https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/</guid><description>&lt;img src="https://yfsanzui.github.io/p/%E6%95%B0%E5%BC%8F%E3%83%86%E3%82%B9%E3%83%88/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;h3 id="katexについて">KaTexについて&lt;/h3>
 &lt;p>このサイト（Hugo）では &lt;strong>KaTex&lt;/strong> と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong>LaTex&lt;/strong> とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p>
 &lt;p>&lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
 >KaTeX&lt;/a>のページ&lt;/p>

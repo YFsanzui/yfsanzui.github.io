@@ -12,9 +12,9 @@ data-flex-basis="426px"
 >&lt;/p>
 &lt;ul>
 &lt;li>なまえ : YFsanzui&lt;/li>
-&lt;li>生まれ : 和歌山県和歌山市&lt;/li>
+&lt;li>生まれ : 和歌山&lt;/li>
 &lt;li>誕生日 : 2000年4月2日&lt;/li>
-&lt;li>所属 : 名古屋大学（理学部）&lt;/li>
+&lt;li>所属 : 中部地方のとある大学&lt;/li>
 &lt;/ul>
 &lt;h2 id="専攻">専攻&lt;/h2>
 &lt;p>&lt;img src="https://yfsanzui.github.io/about/what_problem.png"
@@ -28,7 +28,7 @@ data-flex-grow="102"
 data-flex-basis="246px"
 >&lt;/p>
 &lt;ul>
-&lt;li>物理学科で &lt;strong>生物物理学（理論）&lt;/strong> をやらせてもらっています。&lt;/li>
+&lt;li>&lt;strong>生物物理学（理論）&lt;/strong> をやらせてもらっています。&lt;/li>
 &lt;li>&lt;strong>タンパク質の様々な機能の変化が、その局所的な熱伝導ネットワークで説明できるのでは？&lt;/strong> という大きな仮説のもと、
 タンパク質の熱伝導物性がどう決まっているのか、その局所的な違いにどういう意味があるのか、などを考えています。&lt;/li>
 &lt;li>自分が特に興味があるのは、タンパク質と &lt;strong>周囲の環境&lt;/strong> の関わり合いを、物性物理の力をお借りして評価する仕事で、
