@@ -55,7 +55,31 @@ data-flex-basis="160px"
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Photo by Florian Klauer on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span>) ![&lt;span style="color:#f92672">Photo by Luca Bravo on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Photo by Helena Hertz on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span>) ![&lt;span style="color:#f92672">Photo by Hudai Gayiran on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>Archives</title><link>https://yfsanzui.github.io/page/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/page/archives/</guid><description/></item><item><title>Markdown Syntax Guide</title><link>https://yfsanzui.github.io/post/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/markdown-syntax/</guid><description>&lt;img src="https://yfsanzui.github.io/post/markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" />&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>数式テスト</title><link>https://yfsanzui.github.io/post/math-typesetting/</link><pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/math-typesetting/</guid><description>&lt;img src="https://yfsanzui.github.io/post/math-typesetting/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;p>このサイト（Hugo）では &lt;strong>KaTex&lt;/strong> と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong>LaTex&lt;/strong> とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p>
+&lt;p>&lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
+>KaTeX&lt;/a>のページ&lt;/p>
+&lt;ul>
+&lt;li>もしこのウェブサイト全体で数式を有効にしたい場合は、プロジェクトのconfigurationにおける &lt;code>math&lt;/code> パラメータを &lt;code>true&lt;/code> にする必要があります。書く場所はそのうち探します。&lt;/li>
+&lt;li>コンテンツごとに数式を有効にしたい場合は &lt;code>math: true&lt;/code> を各コンテンツの頭に書くことになります。こっちの方が良いかな。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Note:&lt;/strong> &lt;a class="link" href="https://katex.org/docs/supported.html" target="_blank" rel="noopener"
+>Supported TeX Functions&lt;/a>にKatexの文法が一通り載っています。&lt;/p>
+&lt;p>{{ if or .Page.Params.math .Site.Params.math }}
+{{ partial &amp;ldquo;math.html&amp;rdquo; . }}
+{{ end }}&lt;/p>
+&lt;p>さて、さきのNoteとこの文章の間に、実はKatexのレンダリングを有効にするpartialを挿入しているのですが、これがうまくいけば下の方で数式が出てくるはず！です。&lt;/p>
+&lt;h3 id="例">例&lt;/h3>
+&lt;p>Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p>
+&lt;p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p>
+&lt;p>$$
+\begin{aligned}
+ax^2 + bx + c &amp;amp;= 0\
+\therefore x &amp;amp;= \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
+\end{aligned}
+$$&lt;/p></description></item><item><title>Archives</title><link>https://yfsanzui.github.io/page/archives/</link><pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/page/archives/</guid><description/></item><item><title>Markdown Syntax Guide</title><link>https://yfsanzui.github.io/post/markdown-syntax/</link><pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/markdown-syntax/</guid><description>&lt;img src="https://yfsanzui.github.io/post/markdown-syntax/pawel-czerwinski-8uZPynIu-rQ-unsplash.jpg" alt="Featured image of post Markdown Syntax Guide" />&lt;p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p>
 &lt;h2 id="headings">Headings&lt;/h2>
 &lt;p>The following HTML &lt;code>&amp;lt;h1&amp;gt;&lt;/code>—&lt;code>&amp;lt;h6&amp;gt;&lt;/code> elements represent six levels of section headings. &lt;code>&amp;lt;h1&amp;gt;&lt;/code> is the highest section level while &lt;code>&amp;lt;h6&amp;gt;&lt;/code> is the lowest.&lt;/p>
 &lt;h1 id="h1">H1&lt;/h1>
@@ -228,30 +252,7 @@ alt="Google"
 >talk&lt;/a> during Gopherfest, November 18, 2015.&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ol>
-&lt;/div></description></item><item><title>Math Typesetting</title><link>https://yfsanzui.github.io/post/math-typesetting/</link><pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/math-typesetting/</guid><description>&lt;p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p>
-&lt;p>In this example we will be using &lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
->KaTeX&lt;/a>&lt;/p>
-&lt;ul>
-&lt;li>Create a partial under &lt;code>/layouts/partials/math.html&lt;/code>&lt;/li>
-&lt;li>Within this partial reference the &lt;a class="link" href="https://katex.org/docs/autorender.html" target="_blank" rel="noopener"
->Auto-render Extension&lt;/a> or host these scripts locally.&lt;/li>
-&lt;li>Include the partial in your templates like so:&lt;/li>
-&lt;/ul>
-&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">{{&lt;/span> &lt;span style="color:#66d9ef">if&lt;/span> or .Params.math .Site.Params.math &lt;span style="color:#f92672">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">{{&lt;/span> partial &lt;span style="color:#e6db74">&amp;#34;math.html&amp;#34;&lt;/span> . &lt;span style="color:#f92672">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">{{&lt;/span> end &lt;span style="color:#f92672">}}&lt;/span>
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
-&lt;li>To enable KaTeX globally set the parameter &lt;code>math&lt;/code> to &lt;code>true&lt;/code> in a project&amp;rsquo;s configuration&lt;/li>
-&lt;li>To enable KaTeX on a per page basis include the parameter &lt;code>math: true&lt;/code> in content files&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Note:&lt;/strong> Use the online reference of &lt;a class="link" href="https://katex.org/docs/supported.html" target="_blank" rel="noopener"
->Supported TeX Functions&lt;/a>&lt;/p>
-&lt;h3 id="examples">Examples&lt;/h3>
-&lt;p>Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p>
-&lt;p>Block math:
-$$
-\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
-$$&lt;/p></description></item><item><title/><link>https://yfsanzui.github.io/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/_index.zh-cn/</guid><description/></item><item><title>Links</title><link>https://yfsanzui.github.io/page/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/page/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
+&lt;/div></description></item><item><title/><link>https://yfsanzui.github.io/_index.zh-cn/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/_index.zh-cn/</guid><description/></item><item><title>Links</title><link>https://yfsanzui.github.io/page/links/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/page/links/</guid><description>&lt;p>To use this feature, add &lt;code>links&lt;/code> section to frontmatter.&lt;/p>
 &lt;p>This page&amp;rsquo;s frontmatter:&lt;/p>
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yaml" data-lang="yaml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">links&lt;/span>:
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> - &lt;span style="color:#f92672">title&lt;/span>: &lt;span style="color:#ae81ff">GitHub&lt;/span>
