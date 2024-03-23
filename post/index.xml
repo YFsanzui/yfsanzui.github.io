@@ -47,7 +47,7 @@ data-flex-basis="160px"
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Photo by Florian Klauer on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span>) ![&lt;span style="color:#f92672">Photo by Luca Bravo on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Photo by Helena Hertz on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span>) ![&lt;span style="color:#f92672">Photo by Hudai Gayiran on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>数式テスト</title><link>https://yfsanzui.github.io/post/math-typesetting/</link><pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/math-typesetting/</guid><description>&lt;img src="https://yfsanzui.github.io/post/math-typesetting/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;p>このサイト（Hugo）では &lt;strong>KaTex&lt;/strong> と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong>LaTex&lt;/strong> とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>数式テスト</title><link>https://yfsanzui.github.io/post/math-typesetting/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/math-typesetting/</guid><description>&lt;img src="https://yfsanzui.github.io/post/math-typesetting/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;p>このサイト（Hugo）では &lt;strong>KaTex&lt;/strong> と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong>LaTex&lt;/strong> とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p>
 &lt;p>&lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
 >KaTeX&lt;/a>のページ&lt;/p>
 &lt;ul>
@@ -56,10 +56,10 @@ data-flex-basis="160px"
 &lt;/ul>
 &lt;p>&lt;strong>Note:&lt;/strong> &lt;a class="link" href="https://katex.org/docs/supported.html" target="_blank" rel="noopener"
 >Supported TeX Functions&lt;/a>にKatexの文法が一通り載っています。&lt;/p>
-&lt;p>{{ if or .Page.Params.math .Site.Params.math }}
+&lt;p>{{ if or .Params.math .Site.Params.math }}
 {{ partial &amp;ldquo;math.html&amp;rdquo; . }}
 {{ end }}&lt;/p>
-&lt;p>さて、さきのNoteとこの文章の間に、実はKatexのレンダリングを有効にするpartialを挿入しているのですが、これがうまくいけば下の方で数式が出てくるはず！です。&lt;/p>
+&lt;p>さて、さきのNoteとこの文章の間に、実はKaTexのレンダリングを有効にするpartialを挿入しているのですが、これがうまくいけば下の方で数式が出てくるはず！です。&lt;/p>
 &lt;h3 id="例">例&lt;/h3>
 &lt;p>Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p>
 &lt;p>Block math:

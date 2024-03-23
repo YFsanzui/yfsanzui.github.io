@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>試運転 on YFsanzui webpage</title><link>https://yfsanzui.github.io/categories/%E8%A9%A6%E9%81%8B%E8%BB%A2/</link><description>Recent content in 試運転 on YFsanzui webpage</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/categories/%E8%A9%A6%E9%81%8B%E8%BB%A2/index.xml" rel="self" type="application/rss+xml"/><item><title>Japanese Test</title><link>https://yfsanzui.github.io/post/test-japanese/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/test-japanese/</guid><description>&lt;img src="https://yfsanzui.github.io/post/test-japanese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Japanese Test" />&lt;h2 id="散文出力">散文出力&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>サイト運用 on YFsanzui webpage</title><link>https://yfsanzui.github.io/categories/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E7%94%A8/</link><description>Recent content in サイト運用 on YFsanzui webpage</description><generator>Hugo -- gohugo.io</generator><language>ja</language><lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/categories/%E3%82%B5%E3%82%A4%E3%83%88%E9%81%8B%E7%94%A8/index.xml" rel="self" type="application/rss+xml"/><item><title>Japanese Test</title><link>https://yfsanzui.github.io/post/test-japanese/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/test-japanese/</guid><description>&lt;img src="https://yfsanzui.github.io/post/test-japanese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Japanese Test" />&lt;h2 id="散文出力">散文出力&lt;/h2>
 &lt;p>人間は誰でも猛獣使であり、その猛獣に当るのが、各人の性情だという。己おれの場合、この尊大な羞恥心が猛獣だった。虎だったのだ。これが己を損い、妻子を苦しめ、友人を傷つけ、果ては、己の外形をかくの如く、内心にふさわしいものに変えて了ったのだ。今思えば、全く、己は、己の有もっていた僅わずかばかりの才能を空費して了った訳だ。人生は何事をも為なさぬには余りに長いが、何事かを為すには余りに短いなどと口先ばかりの警句を弄ろうしながら、事実は、才能の不足を暴露ばくろするかも知れないとの卑怯ひきょうな危惧きぐと、刻苦を厭いとう怠惰とが己の凡すべてだったのだ。&lt;/p>
 &lt;h2 id="引用">引用&lt;/h2>
 &lt;blockquote>
@@ -47,4 +47,28 @@ data-flex-basis="160px"
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Photo by Florian Klauer on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span>) ![&lt;span style="color:#f92672">Photo by Luca Bravo on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Photo by Helena Hertz on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span>) ![&lt;span style="color:#f92672">Photo by Hudai Gayiran on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item></channel></rss>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>数式テスト</title><link>https://yfsanzui.github.io/post/math-typesetting/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/math-typesetting/</guid><description>&lt;img src="https://yfsanzui.github.io/post/math-typesetting/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;p>このサイト（Hugo）では &lt;strong>KaTex&lt;/strong> と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong>LaTex&lt;/strong> とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p>
+&lt;p>&lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
+>KaTeX&lt;/a>のページ&lt;/p>
+&lt;ul>
+&lt;li>もしこのウェブサイト全体で数式を有効にしたい場合は、プロジェクトのconfigurationにおける &lt;code>math&lt;/code> パラメータを &lt;code>true&lt;/code> にする必要があります。書く場所はそのうち探します。&lt;/li>
+&lt;li>コンテンツごとに数式を有効にしたい場合は &lt;code>math: true&lt;/code> を各コンテンツの頭に書くことになります。こっちの方が良いかな。&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Note:&lt;/strong> &lt;a class="link" href="https://katex.org/docs/supported.html" target="_blank" rel="noopener"
+>Supported TeX Functions&lt;/a>にKatexの文法が一通り載っています。&lt;/p>
+&lt;p>{{ if or .Params.math .Site.Params.math }}
+{{ partial &amp;ldquo;math.html&amp;rdquo; . }}
+{{ end }}&lt;/p>
+&lt;p>さて、さきのNoteとこの文章の間に、実はKaTexのレンダリングを有効にするpartialを挿入しているのですが、これがうまくいけば下の方で数式が出てくるはず！です。&lt;/p>
+&lt;h3 id="例">例&lt;/h3>
+&lt;p>Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$&lt;/p>
+&lt;p>Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p>
+&lt;p>$$
+\begin{aligned}
+ax^2 + bx + c &amp;amp;= 0\
+\therefore x &amp;amp;= \frac{-b \pm \sqrt{b^2 -4ac}}{2a}
+\end{aligned}
+$$&lt;/p></description></item></channel></rss>
