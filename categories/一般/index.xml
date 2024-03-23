@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>一般 on YFsanzui Website</title>
+        <link>http://localhost:1313/categories/%E4%B8%80%E8%88%AC/</link>
+        <description>Recent content in 一般 on YFsanzui Website</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ja</language>
+        <copyright>YFsanzui</copyright>
+        <lastBuildDate>Sat, 23 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/%E4%B8%80%E8%88%AC/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>サイト運用開始にあたって</title>
+        <link>http://localhost:1313/p/test-japanese/</link>
+        <pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/p/test-japanese/</guid>
+        <description>&lt;img src="http://localhost:1313/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post サイト運用開始にあたって" /&gt;&lt;h2 id=&#34;ご挨拶&#34;&gt;ご挨拶&lt;/h2&gt;
+&lt;p&gt;はじめまして、YFsanzuiと申します。&lt;/p&gt;
+&lt;p&gt;もうすぐ修士１年になる大学４年生です。&lt;/p&gt;
+&lt;p&gt;普段は生物物理学という聞き慣れない分野の研究をしており、特にタンパク質と熱の関わりについて調べています。&lt;/p&gt;
+&lt;p&gt;詳しくは about (詳しくないけど)をご覧くださいませ。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
