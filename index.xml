@@ -6,12 +6,15 @@
 &lt;/ul>
 &lt;p>こんにちは。YFsanzuiです。&lt;/p>
 &lt;p>これはテストページです。&lt;/p>
-&lt;p>順次更新していきます。&lt;/p></description></item><item><title>Japanese Test</title><link>https://yfsanzui.github.io/post/test-japanese/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/test-japanese/</guid><description>&lt;img src="https://yfsanzui.github.io/post/test-japanese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Japanese Test" />&lt;h2 id="散文出力">散文出力&lt;/h2>
-&lt;p>人間は誰でも猛獣使であり、その猛獣に当るのが、各人の性情だという。己おれの場合、この尊大な羞恥心が猛獣だった。虎だったのだ。これが己を損い、妻子を苦しめ、友人を傷つけ、果ては、己の外形をかくの如く、内心にふさわしいものに変えて了ったのだ。今思えば、全く、己は、己の有もっていた僅わずかばかりの才能を空費して了った訳だ。人生は何事をも為なさぬには余りに長いが、何事かを為すには余りに短いなどと口先ばかりの警句を弄ろうしながら、事実は、才能の不足を暴露ばくろするかも知れないとの卑怯ひきょうな危惧きぐと、刻苦を厭いとう怠惰とが己の凡すべてだったのだ。&lt;/p>
+&lt;p>順次更新していきます。&lt;/p></description></item><item><title>Japanese Test</title><link>https://yfsanzui.github.io/post/test-japanese/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/test-japanese/</guid><description>&lt;img src="https://yfsanzui.github.io/post/test-japanese/helena-hertz-wWZzXlDpMog-unsplash.jpg" alt="Featured image of post Japanese Test" />&lt;p>もともとテンプレートでは中国語が書いてあったのですが、日本語でもいけるのでしょうか？&lt;/p>
+&lt;p>少し実際の小説の一節をお借りして試してみます。&lt;/p>
+&lt;h2 id="散文出力">散文出力&lt;/h2>
+&lt;p>人間は誰でも猛獣使であり、その猛獣に当るのが、各人の性情だという。己の場合、この尊大な羞恥心が猛獣だった。虎だったのだ。これが己を損い、妻子を苦しめ、友人を傷つけ、果ては、己の外形をかくの如く、内心にふさわしいものに変えて了ったのだ。今思えば、全く、己は、己の有っていた僅かばかりの才能を空費して了った訳だ。人生は何事をも為さぬには余りに長いが、何事かを為すには余りに短いなどと口先ばかりの警句を弄しながら、事実は、才能の不足を暴露するかも知れないとの卑怯な危惧と、刻苦を厭う怠惰とが己の凡てだったのだ。&lt;/p>
 &lt;h2 id="引用">引用&lt;/h2>
 &lt;blockquote>
 &lt;p>&lt;em>&lt;a class="link" href="https://www.aozora.gr.jp/cards/000119/files/624_14544.html" target="_blank" rel="noopener"
->山月記, 中島敦&lt;/a>&lt;/em>&lt;/p>
+>山月記, 中島敦&lt;/a>&lt;/em>
+リンクは青空文庫様のところへ飛びます。&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="図">図&lt;/h2>
 &lt;p>&lt;img src="https://yfsanzui.github.io/post/test-japanese/florian-klauer-nptLmg6jqDo-unsplash.jpg"
@@ -55,7 +58,9 @@ data-flex-basis="160px"
 &lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Photo by Florian Klauer on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">florian-klauer-nptLmg6jqDo-unsplash.jpg&lt;/span>) ![&lt;span style="color:#f92672">Photo by Luca Bravo on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">luca-bravo-alS7ewQ41M8-unsplash.jpg&lt;/span>)
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
 &lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>![&lt;span style="color:#f92672">Photo by Helena Hertz on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">helena-hertz-wWZzXlDpMog-unsplash.jpg&lt;/span>) ![&lt;span style="color:#f92672">Photo by Hudai Gayiran on Unsplash&lt;/span>](&lt;span style="color:#a6e22e">hudai-gayiran-3Od_VKcDEAA-unsplash.jpg&lt;/span>)
-&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div></description></item><item><title>数式テスト</title><link>https://yfsanzui.github.io/post/math-typesetting/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/math-typesetting/</guid><description>&lt;img src="https://yfsanzui.github.io/post/math-typesetting/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;p>このサイト（Hugo）では &lt;strong>KaTex&lt;/strong> と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong>LaTex&lt;/strong> とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>出力いけてそうですね！&lt;/p>
+&lt;p>山月記は高校生の現代文の授業（今は言語文化とか文学国語などと言うのでしょうか）でやりましたが、&lt;/p>
+&lt;p>微妙に怖く感じて、自らの内にある「猛獣」に取って代わられるような人間にはなりたくないなどと恐れたものです。&lt;/p></description></item><item><title>数式テスト</title><link>https://yfsanzui.github.io/post/math-typesetting/</link><pubDate>Sat, 23 Mar 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/post/math-typesetting/</guid><description>&lt;img src="https://yfsanzui.github.io/post/math-typesetting/the-creative-exchange-d2zvqp3fpro-unsplash.jpg" alt="Featured image of post 数式テスト" />&lt;p>このサイト（Hugo）では &lt;strong>KaTex&lt;/strong> と呼ばれるJavaScriptライブラリによって数式が使えるようになるらしいです。通常の &lt;strong>LaTex&lt;/strong> とは全く同じというわけではないみたいですが、少し使ってみましょう。&lt;/p>
 &lt;p>&lt;a class="link" href="https://katex.org/" target="_blank" rel="noopener"
 >KaTeX&lt;/a>のページ&lt;/p>
 &lt;ul>
