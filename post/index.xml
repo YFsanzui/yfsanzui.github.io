@@ -1,4 +1,78 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on YFsanzui Website</title><link>https://yfsanzui.github.io/post/</link><description>Recent content in Posts on YFsanzui Website</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>YFsanzui</copyright><lastBuildDate>Fri, 12 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>キーボード掃除の体験談</title><link>https://yfsanzui.github.io/p/key_board/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/key_board/</guid><description>&lt;img src="https://yfsanzui.github.io/p/key_board/yusuraume.jpg" alt="Featured image of post キーボード掃除の体験談" />&lt;p>※このページでは私がキーボードをバラして掃除している記述がありますが、こちらをお読みの皆様が実際に挑戦する場合は、完全自己責任でよろしくお願いします、、&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on YFsanzui Website</title><link>https://yfsanzui.github.io/post/</link><description>Recent content in Posts on YFsanzui Website</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>YFsanzui</copyright><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Matplotlibが動かない</title><link>https://yfsanzui.github.io/p/display/</link><pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/display/</guid><description>&lt;img src="https://yfsanzui.github.io/p/display/dogwood.jpg" alt="Featured image of post Matplotlibが動かない" />&lt;p>1週間振りですね。忙しさは相変わらずで、あまり自分の時間というのが取れませんが、サボれる時はサボっていきましょう。&lt;/p>
+&lt;p>大分あったかくなってきて、ちらほらと半袖の人も見えてきました。&lt;/p>
+&lt;p>突然なのですが、近くにハナミズキ（英名：dogwood）がたくさん植わっています。恐らく町のシンボルか何かに設定されているか何かでこういうことになっているみたいです。&lt;/p>
+&lt;p>そんなハナミズキなんですが、最近一斉に花開いて、満開でめっちゃきれいです！&lt;/p>
+&lt;p>ほとんどが白いやつですが、たまに赤いものもいますね（トップの写真）。&lt;/p>
+&lt;p>春もきれいなんですが、秋も結構すごくて、とても鮮やかできれいな紅葉になります。これはこれで楽しみですね。&lt;/p>
+&lt;p>リンゴの花も咲き始めて、こちらも白くて大きな花を咲かせます。とても綺麗です。&lt;/p>
+&lt;p>さっきから綺麗としか言っていないですね。&lt;/p>
+&lt;h2 id="シミュレーションの授業にて">シミュレーションの授業にて&lt;/h2>
+&lt;p>大学院でも授業はいくつか取る必要があり、研究との両立を考えるとちょっと負担に感じるのですが、面白い授業も多く、そういう意味では助かっています。&lt;/p>
+&lt;p>そのうちシミュレーションの授業は面白い授業の一つで、自分も履修しているのですが、自分はそこで出される課題を解く際にGoogle Colabなどを利用せず、手元の環境で完結させています。&lt;/p>
+&lt;p>その手元の環境とは、WSL上のUbuntuになります。WSLはWindows Subsystem for Linuxの略称で、Windowsマシンの中でLinuxが動かせる優れものです。自分はオーソドックスにWSL上にUbuntuのディストリビューションをインストールし、そこで色々作業したりします。VScodeにエクステンションをいくつか入れれば、VScodeの画面でLinuxを動かせるようになるので、これも非常に重宝しています。&lt;/p>
+&lt;p>１年前まではPowerShellとWSLの区別がつかず、PowerShell上でLinuxコマンドを打とうとしてパニックになっていましたが、今ではWSL、Github、Minicondaなどを利用して快適に作業ができています。成長しましたね（笑）&lt;/p>
+&lt;p>最初の課題は２次元平面にランダムに打点された点のうち条件を満たすものをカウントすることで円周率を計算せよというもので、その打点結果や円周率の収束性をPythonのmatplotlibでグラフ化する必要がありました。matplotlibでのグラフ出力に関しては、この１年で成長した自分であれば朝飯前なのでありますが、&lt;/p>
+&lt;p>&lt;strong>なぜかmatplotlibがこける…&lt;/strong>&lt;/p>
+&lt;h2 id="エラーと原因">エラーと原因&lt;/h2>
+&lt;h3 id="原因の在処に目星をつける">原因の在処に目星をつける&lt;/h3>
+&lt;p>matplotlibをインストールするのに失敗したのかなと思い、Minicondaの仮想環境上で &lt;code>conda list&lt;/code> しましたが特に異常なし。昔作って問題なく使っていた環境を &lt;code>conda activate&lt;/code> し、同じくmatplotlibを動かしてみると、これもなぜか動かない。前は動いたはずなのに！！他のデバイス上のUbuntu on WSLでやっても異常なし。
+以上のことから、Minicondaが失敗したわけではなく、もっと上層で何か異変が起きていそうで、かつこの問題は使っているデバイス固有の問題だと判断しました。&lt;/p>
+&lt;p>さらにスクリプトを少しずつ削って、どの命令でこけるのかを調べてみました。すると、&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">matplotlib&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">matplotlib&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">pyplot&lt;/span> &lt;span class="k">as&lt;/span> &lt;span class="n">plt&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="o">...&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">fig&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">plt&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">figure&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">figsize&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">(&lt;/span>&lt;span class="mi">7&lt;/span>&lt;span class="p">,&lt;/span>&lt;span class="mi">7&lt;/span>&lt;span class="p">))&lt;/span> &lt;span class="c1">#-&amp;gt; ERROR&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>そもそも&lt;code>fig&lt;/code> オブジェクトが生成できていない…
+こんな手前でこけるのは初めての経験でした（汗）
+でもこれで大分エラー箇所が絞れました。&lt;/p>
+&lt;h3 id="エラー文を検索しその傾向を見る">エラー文を検索し、その傾向を見る&lt;/h3>
+&lt;p>次にエラー文に注目し、同じとこで困っている人いないかなあ、と思って検索しました。
+エラー文は次のようなものでした。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">_tkinter.TclError: couldn&amp;#39;t connect to display &amp;#34;172.24.48.1:0.0&amp;#34;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>この &lt;code>tkinter&lt;/code> とはなんでしょうか？調べてみると、これはPythonでお手軽にGUIを作るライブラリになっているそうです。この辺は詳しくないのでこれ以上調べませんでしたが、このエラーが「GUI」と結びついているものだということが分かりました。次の文 &lt;code>couldn't connect to display&lt;/code> を素直に読めば「ディスプレイに接続できませんでした」ということなので、GUIで当然必要になって来るディスプレイへの出力の前段階で、どこに出力すべきなのか迷子になって、 &lt;code>fig&lt;/code> オブジェクト生成時点で止まってしまっている、ということなのだろうと推察しました。&lt;/p>
+&lt;p>なんでGUIの話が出てくるの…？&lt;/p>
+&lt;h3 id="本当の原因は去年にあった">本当の原因は去年にあった&lt;/h3>
+&lt;p>GUIなんて作ろうとしていないのに、なぜか&lt;code>tkinter&lt;/code> エラーが出るのが強烈な違和感でした。どこかでGUI関連の設定をいじったりしたかなあ、と色々思い出していると、一つ心当たりがありました。&lt;/p>
+&lt;p>実は去年の10月くらいに、X使いたいな（Twitterではありません）と思って色々試したものの、良く分からずに終わってしまったという残念な思い出があります。もしかしてその時に何かしてしまったんでしょうか？&lt;/p>
+&lt;p>エラー文の意味と傾向を調べている時に、よくヒットしたのが「環境変数 &lt;code>$DISPLAY&lt;/code> を〇〇のように変更したら直る」みたいな文言でした。ひょっとして環境変数に問題があるのかな、と思って .bashrcを開いたところ、 &lt;strong>ありました&lt;/strong>。どうやら半年前の自分は色々試行錯誤している段階で &lt;code>$DISPLAY&lt;/code> を.bashrcで書き換えるようにしており、どうやらそのせいで、画像出力で迷子になっているようでした。これが原因なら &lt;code>tkinter&lt;/code> がなぜか呼び出されるのも（詳しくはないですが）違和感ないです。&lt;/p>
+&lt;h3 id="修正">修正&lt;/h3>
+&lt;p>となると、ここを修正して &lt;code>source ~/.bashrc&lt;/code> をしないといけないのですが、どう修正すれば良いのでしょうか？
+すでに &lt;code>$DISPLAY&lt;/code> が誤った形でシステム上に知れ渡っているので、改めて「正しい、あるいはデフォルトの」値に上書きしてあげる必要がありそうです。&lt;/p>
+&lt;p>デフォルトではどうなってるのかなを調べて、以下のように .bashrcを変更しました。&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-diff" data-lang="diff">&lt;span class="line">&lt;span class="cl">&lt;span class="gd">- export DISPLAY=$(cat /etc/resolv.conf | grep nameserver | awk &amp;#39;{print $2}&amp;#39;):0
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="gd">&lt;/span>&lt;span class="gi">+ export DISPLAY=&amp;#34;:0&amp;#34;
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>この後 &lt;code>source ~/.bashrc&lt;/code> を実行し、環境変数を再設定させると、&lt;/p>
+&lt;p>&lt;strong>直りました!!&lt;/strong>&lt;/p>
+&lt;h2 id="反省">反省&lt;/h2>
+&lt;p>過去の自分が散々環境を散らかした後、元に戻すのを忘れていたばっかりに、半年後の自分が大迷惑を被る、これが今回の問題の本質でした。今回のように一人だったらこれで良いのですが、他者が関わるようなところでは決してやってはいけないですね（そういう場面では権限管理でそもそも触れないようにもするべきではありますが）。&lt;/p>
+&lt;p>逆に今までなんで気づかなかったのかについてですが、10月くらいの自分は既に、リモート接続できる計算機クラスタ上で作業を完結できるように仮想環境などを移行していた（さすがにここでは環境イジリはしていません）ので、恐らく手元のWSLでmatplotlibを動かすことがなかったのでしょう。&lt;/p>
+&lt;p>とにかく、宿題が再びできるようになって一安心です。&lt;/p>
+&lt;p>もっと成長しないといけないですね。&lt;/p></description></item><item><title>キーボード掃除の体験談</title><link>https://yfsanzui.github.io/p/key_board/</link><pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/key_board/</guid><description>&lt;img src="https://yfsanzui.github.io/p/key_board/yusuraume.jpg" alt="Featured image of post キーボード掃除の体験談" />&lt;p>※このページでは私がキーボードをバラして掃除している記述がありますが、こちらをお読みの皆様が実際に挑戦する場合は、完全自己責任でよろしくお願いします、、&lt;/p>
 &lt;h2 id="4月">4月&lt;/h2>
 &lt;p>なんだかんだで4月になってしまいました。&lt;/p>
 &lt;p>院に上がったのですが、いやあ、大変忙しいです！！&lt;/p>
