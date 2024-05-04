@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>環境構築 on YFsanzui Website</title><link>https://yfsanzui.github.io/tags/%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/</link><description>Recent content in 環境構築 on YFsanzui Website</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>YFsanzui</copyright><lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/tags/%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/index.xml" rel="self" type="application/rss+xml"/><item><title>Matplotlibが動かない</title><link>https://yfsanzui.github.io/p/display/</link><pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/display/</guid><description>&lt;img src="https://yfsanzui.github.io/p/display/dogwood.jpg" alt="Featured image of post Matplotlibが動かない" />&lt;p>1週間振りですね。忙しさは相変わらずで、あまり自分の時間というのが取れませんが、サボれる時はサボっていきましょう。&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>環境構築 on YFsanzui Website</title><link>https://yfsanzui.github.io/tags/%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/</link><description>Recent content in 環境構築 on YFsanzui Website</description><generator>Hugo -- gohugo.io</generator><language>ja</language><copyright>YFsanzui</copyright><lastBuildDate>Sat, 04 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://yfsanzui.github.io/tags/%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89/index.xml" rel="self" type="application/rss+xml"/><item><title>古典MDに新しい水モデルを組み込む話（その１）</title><link>https://yfsanzui.github.io/p/%E5%8F%A4%E5%85%B8md%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E6%B0%B4%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%80%E8%A9%B1%E3%81%9D%E3%81%AE%EF%BC%91/</link><pubDate>Sat, 04 May 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/%E5%8F%A4%E5%85%B8md%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E6%B0%B4%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%80%E8%A9%B1%E3%81%9D%E3%81%AE%EF%BC%91/</guid><description>&lt;img src="https://yfsanzui.github.io/p/%E5%8F%A4%E5%85%B8md%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E6%B0%B4%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%80%E8%A9%B1%E3%81%9D%E3%81%AE%EF%BC%91/Chrysanthemum_Chinese-forget-me-not.jpg" alt="Featured image of post 古典MDに新しい水モデルを組み込む話（その１）" />&lt;h1 id="5月">5月&lt;/h1>
+&lt;p>お久しぶりです。気づけば５月になってしまいました。外の世界はゴールデンウイークらしいですね。&lt;/p>
+&lt;p>ここ最近は投稿できていませんでしたが、ちょっと今日区切りいい所に来たので、この辺で息抜きに文章を書きたいと思います。&lt;/p>
+&lt;p>最近は研究のことで頭がいっぱいなのですが、息抜きメニューの中で名探偵コナンブームが再燃しています。かなりご無沙汰していたのですが、久々に見てみるか～となったところ、コナン映画ってこんなに面白いのかと驚きました。&lt;/p>
+&lt;p>まず事件のトリックももちろん凄いのですが、その事件の規模感が自分の心を掴みますね。ビルが崩壊したり、人工衛星が落ちて来たり、リニアが暴走したり、世界がどうかしてしまいそうな５分間の行く末が、あの少年の一蹴りに委ねられる、あの瞬間に興奮し、主人公たちを心から応援したくなる感じです。&lt;/p>
+&lt;p>これ分かってくれる人少ないかもしれないですが、自分はオープニングのアレンジがいつも聞き入ってしまいます。色々聞き比べた上で甲乙つけ難いのですが、個人的には「ゼロの執行人」のパターンが一番好きです。&lt;/p>
+&lt;p>あとコナンって恋愛色が強かったことを今更理解しました。。鈍感な少年だった自分は気づきもしなかったのですが、二人はいつも想い合っていて、それが世紀の大事件を解決する原動力になっているようです。これはコナン映画の伝統なので、寧ろそういうテーマがある話だってことに気付けるくらいには自分も成長できたのかな（これくらいで成長なんて言わんよな、、）、と思いました。&lt;/p>
+&lt;p>写真ですが、大きく黄色い花が「クリサンセマム・ムルチコーレ」、小さく青い花が「シノワスレナグサ」らしいです。仲良く並んでいるのがきれいだと思って撮りました。
+花言葉はそれぞれ「誠実」、「真実の愛」ということで、誠実な主人公とヒロインが、本当の姿で真実の愛にたどり着けますようにということ（どういうこと）で、本題に入りましょう。&lt;/p>
+&lt;h1 id="重水シミュレーション">重水シミュレーション&lt;/h1>
+&lt;p>とあることがきっかけで、研究の中で重水ータンパク質系を構成し、&lt;strong>Amber&lt;/strong>で古典分子動力学シミュレーションを行うことになりました。&lt;/p>
+&lt;h2 id="重水">重水&lt;/h2>
+&lt;p>普通の水は水素２つと酸素１つが共有結合して出来上がる分子で構成されています。水素の原子核は基本的に陽子１個でできていますが、これに中性子を１個加えると、同位体である「&lt;strong>重水素&lt;/strong>」になります。もう一個中性子を加えると「三重水素」またの名を「&lt;strong>トリチウム&lt;/strong>」になります。原発の問題で話題になったやつですね。ざっくり言うと、&lt;strong>重水&lt;/strong>は普通の水素の代わりに重水素を含んだ水のことになります。&lt;/p>
+&lt;h2 id="古典ｍｄで重水を表現する難しさ">古典ＭＤで重水を表現する難しさ&lt;/h2>
+&lt;p>さて、なんやかんやで重水をモデル化し、タンパク質をその中に沈めたシミュレーション系を構築したいのですが、これが簡単ではありません。色々理由があります。&lt;/p>
+&lt;h3 id="単なる重い水ではない">単なる「重」い「水」ではない&lt;/h3>
+&lt;p>水素の質量が中性子がくっついただけ大きくなる（質量欠損もあるでしょうが）ので、水分子モデルの質量を純増すれば重水になりそうですが、そういうわけではないそうです。&lt;/p>
+&lt;p>重水には通常の水（軽水）と異なる物性が報告されているようで、例えば&lt;strong>水素結合強度&lt;/strong>が変わって来たり、その結果、軽水・重水の質量密度比は、それらの分子量比に単純比例しないらしいです。詳しいことはまだ勉強中なのですが、こういった事情から、正確には&lt;strong>分極・電荷情報&lt;/strong>や、&lt;strong>van del Waals相互作用項&lt;/strong>も修正が入り、そういう修正モデルがここ20数年研究・開発されています。&lt;/p>
+&lt;h3 id="実装のハードルが高い">実装のハードルが高い&lt;/h3>
+&lt;p>開発されてるんだね、じゃあそれ使えばええやん、となりたいのですが、色々な分子動力学シミュレーションパッケージプログラム、特に自分の使っているAmberでは、重水モデルが見当たらないんですね。もっと探せばあるのかもしれないのですが、Amberにないということは、研究途中ということもあって、あまり普及していないのかなあと思います。&lt;/p>
+&lt;p>自分の研究の場合、現時点ではAmberから逃れられないので、どうにかしてAmber上に重水（今回はD2Oに限ります）を作らないといけません。そのためには、&lt;strong>重水の力場パラメータをどうにかしてAmberのシステムに組み込む必要があります&lt;/strong>。通常の利用範囲ではAmberのソースファイルに手を付けたりはしないので、非常にハードルを感じますね。&lt;/p>
+&lt;p>&lt;img src="https://yfsanzui.github.io/p/%E5%8F%A4%E5%85%B8md%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E6%B0%B4%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%80%E8%A9%B1%E3%81%9D%E3%81%AE%EF%BC%91/H2OvsD2O.png"
+width="3667"
+height="1189"
+srcset="https://yfsanzui.github.io/p/%E5%8F%A4%E5%85%B8md%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E6%B0%B4%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%80%E8%A9%B1%E3%81%9D%E3%81%AE%EF%BC%91/H2OvsD2O_hu5fb8d9959dc72119575bca1f102b67c4_134237_480x0_resize_box_3.png 480w, https://yfsanzui.github.io/p/%E5%8F%A4%E5%85%B8md%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E6%B0%B4%E3%83%A2%E3%83%87%E3%83%AB%E3%82%92%E7%B5%84%E3%81%BF%E8%BE%BC%E3%82%80%E8%A9%B1%E3%81%9D%E3%81%AE%EF%BC%91/H2OvsD2O_hu5fb8d9959dc72119575bca1f102b67c4_134237_1024x0_resize_box_3.png 1024w"
+loading="lazy"
+alt="H2OとD2Oは物理としてもMDとしても興味深い"
+class="gallery-image"
+data-flex-grow="308"
+data-flex-basis="740px"
+>&lt;/p>
+&lt;h2 id="重水を使えるようにするための戦略">重水を使えるようにするための戦略&lt;/h2>
+&lt;p>そのままでは重水モデルをAmberで使えないので、ソースファイルレベルで何かしらの操作を行って、重水モデルを導入する必要があります。そのための方針として色々考えてみたところ、大まかに２つあるのではないかと思いました。&lt;/p>
+&lt;h3 id="amberの外で系を構成した後amber形式にファイル変換する">Amberの外で系を構成した後、Amber形式にファイル変換する&lt;/h3>
+&lt;p>もしAmberの外に、カスタマイズした力場パラメータで系を構成する手立てがあるのであれば、そこで系を組み立てるのがやりやすいでしょう。ＭＤはパッケージによってファイル形式やコマンドの流儀が異なるのですが、これは&lt;strong>ParmEd&lt;/strong>などでファイル形式変換をすることによって克服できる可能性があります。ここがうまくいけば外で作った系をAmber形式に直せて、無事Amberに重水を持ってくることができるでしょう。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>メリット&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Gromacs&lt;/strong>はカスタマイズした力場パラメータセットを取り込みやすい構造をしているため、わりと検索するとそのやりかたが見つかります。このように実績や先例が多いのであればそれに従うのが賢明です。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>デメリット&lt;/p>
+&lt;ul>
+&lt;li>ただ、逆にGromacsには &lt;strong>Amber特有の力場パラメータ（ff19SBなど）&lt;/strong> が入っていないので、これをインポートするのが面倒かもしれません。&lt;/li>
+&lt;li>変換プログラムがどこまで正確に翻訳してくれているのかが不安要素として残ります。 &lt;strong>複数のプログラムが絡めば絡むほど、このミスマッチ問題は肥大していく&lt;/strong> ので、この点では好ましいとは言えないでしょう。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="ambertoolsをいじる">AmberToolsをいじる&lt;/h3>
+&lt;p>普段AmberToolsの &lt;strong>tLeaP&lt;/strong> を使って系を作成することが多いので、AmberTools自体が重水系を作る機能を持っていればそれで解決します。ただ先ほども述べた通り、Amberには重水のモデルが標準実装されていないので、tLeaPのソースファイルがもつディレクトリ構造に準拠して、適宜ファイル追加、編集をすることになります。&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>メリット&lt;/p>
+&lt;ul>
+&lt;li>AmberToolsに従った記述をおこなえれば、ParmEdやGromacsに頼る必要がなくなり、翻訳や流儀の差異によって生じるデータの齟齬のリスクがなくなります。&lt;/li>
+&lt;li>ff19SBなどAmber特有の力場との組み合わせが容易になります。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>デメリット&lt;/p>
+&lt;ul>
+&lt;li>Gromacs以上に、AmberToolsの書き換えを行っている事例はヒットしにくいです。このため類似の事例が豊富ではなく、困ったときに当たるべき資料が少ないです。&lt;/li>
+&lt;li>AmberToolsはGromacsに比べてファイルを書き換えたり追加したりする箇所が多そうです。電荷情報とvan del Waals相互作用項を同じファイルで定義できないなど、規定する情報が比較的分散しており、どこまでファイル依存関係が広がっているのかが一見分かりにくいです。&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h2 id="自分がやったこと">自分がやったこと&lt;/h2>
+&lt;p>２つの方法を実際に自分で試してみて、やりやすさに関しては一つ目の方だったのですが、途中でうまくいかなくなり、結局二つ目の方法に落ち着きました。最初はどのファイルがどう噛み合って動いているのか良く分からなかったのですが、良く見れば数個のファイルを書き換えたりすれば最低限使えそうな形には持っていけている様子でした。まあAmberToolsも人間が作っているので、モデルを追加するためだけにそんな何十個にも書き換えないといけない構造になっているはずがないんですがね。&lt;/p>
+&lt;p>この後は実際にやった試みについて、ざっくりと紹介できたらと思います（どこまで正しくできているかは保証できませんが…）。今回はここまでです。&lt;/p></description></item><item><title>Matplotlibが動かない</title><link>https://yfsanzui.github.io/p/display/</link><pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate><guid>https://yfsanzui.github.io/p/display/</guid><description>&lt;img src="https://yfsanzui.github.io/p/display/dogwood.jpg" alt="Featured image of post Matplotlibが動かない" />&lt;p>1週間振りですね。忙しさは相変わらずで、あまり自分の時間というのが取れませんが、サボれる時はサボっていきましょう。&lt;/p>
 &lt;p>大分あったかくなってきて、ちらほらと半袖の人も見えてきました。&lt;/p>
 &lt;p>突然なのですが、近くにハナミズキ（英名：dogwood）がたくさん植わっています。恐らく町のシンボルか何かに設定されているか何かでこういうことになっているみたいです。&lt;/p>
 &lt;p>そんなハナミズキなんですが、最近一斉に花開いて、満開でめっちゃきれいです！&lt;/p>
